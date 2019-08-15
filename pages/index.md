@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# PROJECT MIRALDA XEIN6 - ENTER THE MATRIX
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
